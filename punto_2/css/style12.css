@@ -1,0 +1,23 @@
+body{
+    background:url(../img/5437842.jpg)
+    
+}
+.title{
+    text-align:left;
+    font-weight:lighter;
+}
+.caja-uno{
+    width: 70%;
+    padding: 50px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgba(217, 217, 217, 0.759);
+    box-shadow: 0px 0px 20px 0px rgba(110, 110, 110, 0.775);
+    margin: 3% auto;
+}
+.caja-uno label{
+    font-weight:bolder;
+    font-size:x-large;
+    color: rgb(63, 87, 67);
+    
+}

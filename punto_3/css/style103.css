@@ -1,0 +1,22 @@
+body{
+    background: url(../img/vista-superior-coloridas-piramides-papel-espacio-copia.jpg);
+    background-size: cover;
+}
+.caja-uno{
+    width: 450px;
+    padding: 50px;
+    height: 450px;
+    background-color: rgba(217, 217, 217, 0.740);
+    box-shadow: 0px 0px 20px 0px rgba(110, 110, 110, 0.775);
+    margin: 3% auto;
+    text-align: center;
+}
+.caja-uno label{
+    font-weight:bolder;
+    font-size:x-large;
+    color: rgb(69, 117, 212);
+}
+.title{
+    text-align: center;
+    font-weight:lighter;
+}
